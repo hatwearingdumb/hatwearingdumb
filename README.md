@@ -1,1 +1,1 @@
-Moved to [Codeberg](https://codeberg.org/hatwearingdumb).
+Projects moved to [Codeberg](https://codeberg.org/hatwearingdumb).
